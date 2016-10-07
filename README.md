@@ -9,7 +9,7 @@ composer require vikin/alidayu
 ```
 或者在你的composer.json文件中添加:
 ```bash
-"vikin/alidayu" : "^0.5.0"
+"vikin/alidayu" : "~1.0"
 ```
 然后执行下面的命令进行安装:
 ```bash
