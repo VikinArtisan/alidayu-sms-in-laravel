@@ -1,5 +1,8 @@
 #Alidayu sms in laravel
 
+[![License](https://poser.pugx.org/vikin/alidayu/license)](https://packagist.org/packages/vikin/alidayu)
+[![Total Downloads](https://poser.pugx.org/vikin/alidayu/downloads)](https://packagist.org/packages/vikin/alidayu)
+
 >Laravel的阿里大于短信通知Package
 
 ##安装
