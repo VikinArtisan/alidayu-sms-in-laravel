@@ -1,8 +1,9 @@
 <?php
 
-namespace Vikin\Alidayu;
+namespace Vikin\Alidayu\ServiceProvider;
 
 use Illuminate\Support\ServiceProvider;
+use Vikin\Alidayu\AlidayuMain;
 
 class AlidayuServiceProvider extends ServiceProvider
 {
